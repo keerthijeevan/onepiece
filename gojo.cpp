@@ -24,3 +24,7 @@ int main() {
     } while (guess != secret);
 
     return 0
+
+
+    // new techinque fir github
+    
